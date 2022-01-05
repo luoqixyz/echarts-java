@@ -1,6 +1,15 @@
 {
     "setOption": {
-        "title": {},
+        "title": {
+            "id": "string",
+            "show": true,
+            "text": "string",
+            "link": "string",
+            "target": "string 指定窗口打开主标题超链接，可选值: self blank",
+            "textStyle": {
+
+            }
+        },
         "legend": [],
         "grid": {},
         "xAxis": {},
